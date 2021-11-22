@@ -4,7 +4,7 @@ my name is Ahmed Ouda .. i work as full stack web developer <3
 
 this project has no license to be used .. it is completely open source and u can re-use the code
 
-welcome for any one who want to share in developping it
+We welcome anyone who wants to work on the development of the project
 
 
 The Goal Making It is
@@ -16,13 +16,14 @@ this will be without database and work on local storage only
 
 in order to save your progress permanently u can export it into txt file or any extension
 
+
 ###################################
 
 اسمي احمد عوده .. اعمل كمبرمج ويب full stack
 
 هذا المشروع ليس له رخصة استخدام .. انه مفتوح المصدر بالكامل ويمكنك اعادة استخدام الكود
 
-نرحب بأي احد يريد ان يشارك في التطوير
+نرحب بأي احد يريد أن يعمل علي تطوير المشروع
 
 
 الهدف من عمل المشروع
