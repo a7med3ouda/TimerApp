@@ -2,7 +2,7 @@
 
 My name is Ahmed Ouda .. i work as full stack web developer <3
 
-this project has no license to be used .. it is completely open source and u can re-use the code
+This project has no license to be used .. it is completely open source and u can re-use the code
 
 We welcome anyone who wants to work on the development of the project
 
@@ -10,9 +10,9 @@ We welcome anyone who wants to work on the development of the project
 The Goal Making It is
 =====================
 
-it aims to make very simple ToDo app and timer app to record how much time u spend on your work
+It aims to make very simple ToDo app and timer app to record how much time u spend on your work
 
-this will be without database and work on local storage only
+It will be without database for now and work on local storage only
 
 in order to save your progress permanently u can export it into txt file or any extension
 
@@ -31,6 +31,6 @@ in order to save your progress permanently u can export it into txt file or any 
 
 يهدف الي صنع برنامج تحديد مهام و يعمل كساعة ايقاف ليحدد لك كم قضيت من الوقت في عملك
 
-هذا سيكون بدون قاعدة بيانات وسيعتمد علي ذاكرة المتصفح المؤقته
+هذا المشروع سيكون بدون قاعدة بيانات حاليا وسيعتمد علي ذاكرة المتصفح المؤقته
 
 يمكنك حفظ الجلسة علي هيئة ملف نصي او اي امتداد اخر
