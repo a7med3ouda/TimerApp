@@ -7,8 +7,8 @@ This project has no license to be used .. it is completely open source and u can
 We welcome anyone who wants to work on the development of the project
 
 
-The Goal Making It is
-=====================
+The Goal Of Making This Project Is
+==================================
 
 It aims to make very simple ToDo app and timer app to record how much time u spend on your work
 
@@ -26,7 +26,7 @@ in order to save your progress permanently u can export it into txt file or any 
 نرحب بأي احد يريد أن يعمل علي تطوير المشروع
 
 
-الهدف من عمل المشروع
+الهدف من عمل هذا المشروع
 =====================
 
 يهدف الي صنع برنامج تحديد مهام و يعمل كساعة ايقاف ليحدد لك كم قضيت من الوقت في عملك
