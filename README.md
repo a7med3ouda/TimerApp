@@ -24,7 +24,7 @@ in order to save your progress permanently u can export it into txt file or any 
 
 نرحب بأي احد يريد ان يشارك في التطوير
 
-=====================
+
 الهدف من عمل المشروع
 =====================
 
