@@ -1,6 +1,6 @@
 # TimerApp
 
-my name is Ahmed Ouda .. i work as full stack web developer <3
+My name is Ahmed Ouda .. i work as full stack web developer <3
 
 this project has no license to be used .. it is completely open source and u can re-use the code
 
