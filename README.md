@@ -8,7 +8,7 @@ welcome for any one who want to share in developping it
 
 =====================
 The Goal Making It is
-=====================
+
 
 it aims to make very simple ToDo app and timer app to record how much time u spend on your work
 
